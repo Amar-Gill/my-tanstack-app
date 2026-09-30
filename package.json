@@ -13,6 +13,7 @@
     "db:studio": "drizzle-kit studio"
   },
   "dependencies": {
+    "@clerk/nextjs": "^7.9.8",
     "@libsql/client": "^0.15.8",
     "drizzle-kit": "^0.31.1",
     "drizzle-orm": "^0.44.2",
